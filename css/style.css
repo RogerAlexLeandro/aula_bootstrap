@@ -1,0 +1,34 @@
+body {
+    font: 20px tahoma, sans-serif;
+}
+
+.navbar {
+    background-color: #FFBF00;
+}
+
+.quem-somos {
+    background-color: #A9D0F5;
+    color: #045FB4;
+    font: 30px tahoma, sans-serif;
+}
+
+.margin {
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.parceiros {
+    background-color: #81F79F;
+    color: #088A29;
+    font: 30px tahoma, sans-serif;
+}
+
+.servicos {
+    background-color: #FAAC58;
+    color: #B45F04;
+    font: 30px tahoma, sans-serif;
+}
+
+.bf-footer {
+    background-color: #FFBF00;
+}
